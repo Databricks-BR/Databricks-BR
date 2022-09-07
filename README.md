@@ -1,20 +1,15 @@
-### Hi there 👋
-
 <!--
 **Databricks-BR/Databricks-BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 
-<a href="https://databricks.com/try-databricks"><img src='https://user-images.githubusercontent.com/4445837/177666587-657ae25e-9539-4182-ad2b-ec99bbfb5aaf.png'></img></a>
+<a href="https://databricks.com/try-databricks"><img src='https://github.com/Databricks-BR/Databricks-BR/raw/main/images/databricks_solucoes_negocio.png'></img></a>
 
 Databricks Solution Accelerators are fully functional notebooks that tackle the most common and high-impact use cases that you face every day.
 
-## By Industry
+## por Indústria:
 
-- [Lakehouse for Financial Services](https://databricks.com/solutions/industries/financial-services)
-- [Lakehouse for Media and Entertainment](https://databricks.com/solutions/industries/media-and-entertainment)
-- [Lakehouse for Healthcare and Life Sciences](https://databricks.com/solutions/industries/healthcare-and-life-sciences)
-- [Lakehouse for Retail](https://databricks.com/solutions/industries/retail-industry-solutions)
+- xxxx
 
 ## Getting started
 
