@@ -5,21 +5,27 @@
 
 <a href="https://databricks.com/try-databricks"><img src='https://github.com/Databricks-BR/Databricks-BR/raw/main/images/databricks_solucoes_negocio.png'></img></a>
 
-Databricks Solution Accelerators are fully functional notebooks that tackle the most common and high-impact use cases that you face every day.
+<br>
+## Sobre a Comunidade
 
-## por Indústria:
+Esse repositório é mantido pela comunidade Brasil de Engenheiros e Cientistas de Dados da Databricks, além de muitas contribuições de entusiastas Databricks.  Os projetos são construídos em código aberto (OPEN SOURCE), com Notebooks funcionais voltados a problemas do negócio (casos de uso), visando facilitar e acelerar as soluções de "DATA & AI", apoiados pela plataforma DATABRICKS.   Além dos códigos-fonte (codificados em python, pyspark, scala, SQL...), o repositório possui também bases de dados exemplos, arquivos de mapas, imagens, tabelas de domínio público, links de referência, documentações; todos reaproveitáveis em projetos reais.
 
-- xxxx
 
-## Getting started
+## Como fazer um TRIAL DATABRICKS
 
-Although specific solutions can be downloaded as .dbc archives from our websites, we recommend cloning these repositories onto your databricks environment. Not only will you get access to latest code, but you will be part of a community of experts driving industry best practices and re-usable solutions, influencing our respective industries. 
+Inicie um Trial Databricks em sua núvem de preferência *
+    - [Free Trial Databricks AWS Lakehouse](https://databricks.com/try-databricks)
+    - [Free Trial Databricks Azure Lakehouse](https://databricks.com/try-databricks)
+    - [Free Trial Databricks GCP Lakehouse](https://databricks.com/try-databricks)
+    * O Free Trial Databricks não inclui os custos de infra estrutura de núvem (Instâncias, Armazenamento, Rede, etc)
+    
+## Como copiar Projetos desse Repositório para o Databricks:
 
-<img width="500" alt="add_repo" src="https://user-images.githubusercontent.com/4445837/177207338-65135b10-8ccc-4d17-be21-09416c861a76.png">
+Adicione este repositório para o seu workspace Databricks
+    - [Como adicionar repositórios git no Databricks](https://docs.databricks.com/repos/work-with-notebooks-other-files.html)
 
-To start using a solution accelerator in Databricks simply follow these steps: 
+## Comunidade Databricks Brasil
 
-1. Clone solution accelerator repository in Databricks using [Databricks Repos](https://www.databricks.com/product/repos)
-2. Modify configuration in `config` folder
-3. Run notebooks
-4. You might want to modify the samples in the solution accelerator to your need, collaborate with other users and run the code samples against your own data. To do so start by changing the Git remote of your repository  to your organization’s repository vs using our samples repository (learn more). You can now commit and push code, collaborate with other user’s via Git and follow your organization’s processes for code development.
+- Junte-se ao canal [Databricks Comunidade Brasil](https://bit.ly/databricks-slack-br) no Slack!
+- Grupo no LinkedIn [Databricks Brasil - Lakehouse 🏠 🇧🇷](https://www.linkedin.com/groups/14100135/)
+
