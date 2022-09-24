@@ -5,6 +5,8 @@
 
 <a href="https://databricks.com/try-databricks"><img src='https://github.com/Databricks-BR/Databricks-BR/raw/main/images/databricks_solucoes_negocio.png'></img></a>
 
+<!-- tracking, por favor nao remova  -->
+<img width="1px" src="https://www.google-analytics.com/collect?v=1&gtm=G-F6RWSYNBDW&tid=G-F6RWSYNBDW&cid=1&aip=1&t=event&ec=databricksbr&ea=display&dp=%2Fdatabricks-br&dt=Databricks_BR_Main_Page">
 
 ## Sobre a Comunidade
 
