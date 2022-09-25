@@ -39,3 +39,7 @@ Adicione este repositório para o seu workspace Databricks
 - Junte-se ao canal [Databricks Comunidade Brasil](https://bit.ly/databricks-slack-br) no Slack!
 - Grupo no LinkedIn [Databricks Brasil - Lakehouse 🏠 🇧🇷](https://www.linkedin.com/groups/14100135)
 - Grupo no Meetup [Meetup Databrick Comunidade Brasil](https://www.meetup.com/pt-BR/databricks-brasil-oficial)
+
+</br>
+
+   <a href="https://github.com/Databricks-BR"><img src="https://raw.githubusercontent.com/Databricks-BR/Databricks-BR/main/images/databricks-br.png" style="width: 40px; height: 40px;"></a>  <a href="https://www.linkedin.com/groups/14100135"><img src="https://raw.githubusercontent.com/Databricks-BR/Databricks-BR/main/images/icon_linkedin.png" style="width: 35px; height: 35px;"></a>  <a href="https://www.meetup.com/pt-BR/databricks-brasil-oficial"><img src="https://raw.githubusercontent.com/Databricks-BR/Databricks-BR/main/images/icon_meetup.png" style="height: 40px;"></a>  <a href="https://bit.ly/databricks-slack-br"><img src="https://raw.githubusercontent.com/Databricks-BR/Databricks-BR/main/images/icon_slack.png" style="width: 35px; height: 35px;"></a>  <a href="https://www.youtube.com/c/Databricks"><img src="https://raw.githubusercontent.com/Databricks-BR/Databricks-BR/main/images/icon_youtube.png" style="height: 38px;"></a>
