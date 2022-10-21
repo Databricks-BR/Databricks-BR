@@ -34,6 +34,12 @@ Inicie um Trial Databricks em sua núvem de preferência
 Adicione este repositório para o seu workspace Databricks
     - [Como adicionar repositórios git no Databricks](https://docs.databricks.com/repos/work-with-notebooks-other-files.html)
 
+## Outros Repositórios GitHub Databricks
+
+- Databricks Industry Solutions - EUA (https://github.com/databricks-industry-solutions)
+- Databricks - Helping data teams - EUA (https://github.com/databricks)
+
+
 ## Comunidade Databricks Brasil
 
 - Junte-se ao canal [Databricks Comunidade Brasil](https://bit.ly/databricks-slack-br) no Slack!
