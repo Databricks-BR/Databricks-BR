@@ -38,7 +38,7 @@ Adicione este repositório para o seu workspace Databricks
 
 - Databricks Industry Solutions - EUA (https://github.com/databricks-industry-solutions)
 - Databricks - Helping data teams - EUA (https://github.com/databricks)
-
+- Databricks Academy - USA ( https://github.com/databricks-academy )
 
 ## Comunidade Databricks Brasil
 
